@@ -1,6 +1,6 @@
 # 各作品リンク
 
-## Steam(参加)
+## Steam
 
 - [ヘレの海底都市計画](https://store.steampowered.com/app/2502940/?snr=1_5_9__205)
 
